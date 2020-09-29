@@ -37,6 +37,7 @@ bot.doStuff()
 ### Documentation
 
 [API](https://github.com/TheDudeFromCI/mineflayer-plugin-template/blob/master/docs/api.md)
+
 [Examples](https://github.com/TheDudeFromCI/mineflayer-plugin-template/tree/master/examples)
 
 ### License
